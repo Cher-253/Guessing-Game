@@ -30,6 +30,3 @@ The program can be compiled using a C++ compiler with GTKmm library support.
 
 Dependencies:  
 The program depends on the GTKmm library.  
-
-Notes:  
-The game checks if the user's guess matches the correct answer ("Cruella").    e
